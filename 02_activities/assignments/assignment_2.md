@@ -10,25 +10,17 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good: The headline states the claim, and the graphic structure makes the same point (most flows go down toward lower median income). This supports the perceptual goal (audience can tell what it is trying to convey) (Lecture 1, DSI). Direction/position (up vs down) already demonstrates higher vs lower median income, so color reinforces instead of carries the whole meaning (Lecture 7, DSI). The large “88%” and “12%” labels help with comprehension (Lecture 7, DSI). There is lots of negative space which keeps attention on the pattern in an aesthetic way (Lecture 1, DSI).
 
 
-
-
-
-
-
+      Bad: Making time a spiral makes it hard to compare how high cases are across dates (Lecture 4, DSI). The spiral is attention-grabbing, but it increases cognitive load without adding analytical value (Lecture 4, DSI). It’s unclear how to read exact values (no conventional y-axis ticks), and thickness is difficult to interpret (Lecture 1, DSI). 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Good: Substantive data could be added, like citing the data source, time range, and sample size (Lecture 1, DSI). Also the smaller grey text could have more contrast with the white background to make it more readable (Lecture 7, DSI).
 
 
-
-
-
-
-      
+      Bad: You could change it to a line chart (date on x, cases on y) then annotate the expected peak date. This improves substantive clarity (Lecture 1, DSI). Also adding axes with units, tick marks, data source (Lecture 1, DSI).
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
